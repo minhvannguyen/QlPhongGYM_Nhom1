@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitietktcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitietktcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|d:\\lenovo\\documents\\visual_sql\\windowsformsapp2\\form_chitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_khoatap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_khoatap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_khoatap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_khoatap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitietktcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitietktcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_dungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_dungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_phieu_dk_kt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_phieu_dk_kt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_dk_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_dk_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitiet_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_dungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_dungcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_phieu_dk_kt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_phieu_dk_kt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_dk_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_dk_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitiet_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitiet_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_tk_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_nhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_ql_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_ql_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_chitiet_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_chitiet_thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_letan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8852DA11-91B5-4BFD-86AB-B68B9735375A}|WindowsFormsApp2.csproj|solutionrelative:form_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_ChiTiet_HD.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_HD.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_HD.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_HD.cs [Design]",
+              "RelativeToolTip": "Form_ChiTiet_HD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:55:22.08Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_QL_HD.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_HD.cs",
+              "RelativeDocumentMoniker": "Form_QL_HD.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_HD.cs [Design]",
+              "RelativeToolTip": "Form_QL_HD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:53:58.734Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_ChiTietKTcs.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTietKTcs.cs",
+              "RelativeDocumentMoniker": "Form_ChiTietKTcs.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTietKTcs.cs [Design]",
+              "RelativeToolTip": "Form_ChiTietKTcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:35:00.934Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_ChiTiet_TheTV.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TheTV.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_TheTV.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TheTV.cs [Design]",
+              "RelativeToolTip": "Form_ChiTiet_TheTV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:58:05.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DangNhap.cs",
+              "RelativeDocumentMoniker": "Form_DangNhap.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DangNhap.cs [Design]",
+              "RelativeToolTip": "Form_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:34:04.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form_LeTan.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_LeTan.cs",
+              "RelativeDocumentMoniker": "Form_LeTan.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_LeTan.cs [Design]",
+              "RelativeToolTip": "Form_LeTan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:23:19.382Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_QL_KhoaTap.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_KhoaTap.cs",
+              "RelativeDocumentMoniker": "Form_QL_KhoaTap.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_KhoaTap.cs [Design]",
+              "RelativeToolTip": "Form_QL_KhoaTap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:31:58.842Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form_Phieu_DK_KT.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_Phieu_DK_KT.cs",
+              "RelativeDocumentMoniker": "Form_Phieu_DK_KT.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_Phieu_DK_KT.cs [Design]",
+              "RelativeToolTip": "Form_Phieu_DK_KT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:13:26.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form_DK_TK_NhanSu.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DK_TK_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_DK_TK_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DK_TK_NhanSu.cs [Design]",
+              "RelativeToolTip": "Form_DK_TK_NhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:58:53.566Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_QL_DungCu.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_DungCu.cs",
+              "RelativeDocumentMoniker": "Form_QL_DungCu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_DungCu.cs [Design]",
+              "RelativeToolTip": "Form_QL_DungCu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:29:10.841Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form_QL_NhanSu.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_QL_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_NhanSu.cs [Design]",
+              "RelativeToolTip": "Form_QL_NhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:10:58.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_QuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QuanLy.cs",
+              "RelativeDocumentMoniker": "Form_QuanLy.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QuanLy.cs [Design]",
+              "RelativeToolTip": "Form_QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:17:21.516Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form_ChiTiet_TK_NhanSu.cs [Design]",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TK_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_TK_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TK_NhanSu.cs [Design]",
+              "RelativeToolTip": "Form_ChiTiet_TK_NhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:57:43.165Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_DK_TK_NhanSu.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DK_TK_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_DK_TK_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DK_TK_NhanSu.cs",
+              "RelativeToolTip": "Form_DK_TK_NhanSu.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:54:46.571Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_ChiTiet_HD.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_HD.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_HD.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_HD.cs",
+              "RelativeToolTip": "Form_ChiTiet_HD.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwv6YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:58:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_QL_HD.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_HD.cs",
+              "RelativeDocumentMoniker": "Form_QL_HD.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_HD.cs",
+              "RelativeToolTip": "Form_QL_HD.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:56:33.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_ChiTietKTcs.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTietKTcs.cs",
+              "RelativeDocumentMoniker": "Form_ChiTietKTcs.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTietKTcs.cs",
+              "RelativeToolTip": "Form_ChiTietKTcs.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAuwB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:49:58.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form_ChiTiet_TK_NhanSu.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TK_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_TK_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TK_NhanSu.cs",
+              "RelativeToolTip": "Form_ChiTiet_TK_NhanSu.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAAwBsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:57:46.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_DangNhap.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DangNhap.cs",
+              "RelativeDocumentMoniker": "Form_DangNhap.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_DangNhap.cs",
+              "RelativeToolTip": "Form_DangNhap.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAQwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:36:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form_ChiTiet_TheTV.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TheTV.cs",
+              "RelativeDocumentMoniker": "Form_ChiTiet_TheTV.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_ChiTiet_TheTV.cs",
+              "RelativeToolTip": "Form_ChiTiet_TheTV.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAGoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:04:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_QL_KhoaTap.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_KhoaTap.cs",
+              "RelativeDocumentMoniker": "Form_QL_KhoaTap.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_KhoaTap.cs",
+              "RelativeToolTip": "Form_QL_KhoaTap.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAuwNwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:33:50.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form_LeTan.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_LeTan.cs",
+              "RelativeDocumentMoniker": "Form_LeTan.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_LeTan.cs",
+              "RelativeToolTip": "Form_LeTan.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:23:57.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form_QL_TheTV.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_TheTV.cs",
+              "RelativeDocumentMoniker": "Form_QL_TheTV.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_TheTV.cs",
+              "RelativeToolTip": "Form_QL_TheTV.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA8wEUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:57:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_Phieu_DK_KT.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_Phieu_DK_KT.cs",
+              "RelativeDocumentMoniker": "Form_Phieu_DK_KT.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_Phieu_DK_KT.cs",
+              "RelativeToolTip": "Form_Phieu_DK_KT.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswF0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:56:33.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form_QL_NhanSu.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_NhanSu.cs",
+              "RelativeDocumentMoniker": "Form_QL_NhanSu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_NhanSu.cs",
+              "RelativeToolTip": "Form_QL_NhanSu.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAawHsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:11:11.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form_QL_DungCu.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_DungCu.cs",
+              "RelativeDocumentMoniker": "Form_QL_DungCu.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QL_DungCu.cs",
+              "RelativeToolTip": "Form_QL_DungCu.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAABEBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:19:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form_QuanLy.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QuanLy.cs",
+              "RelativeDocumentMoniker": "Form_QuanLy.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Form_QuanLy.cs",
+              "RelativeToolTip": "Form_QuanLy.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:22:01.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Lenovo\\Documents\\visual_sql\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T04:23:15.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
